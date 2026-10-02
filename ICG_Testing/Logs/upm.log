@@ -1,0 +1,31 @@
+[2026-10-02T18:47:45.852Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.2f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 40532 --ipc-path Unity-Upm-40532 -l 2 --log-file 'C:\\Documents\\Unity Project\\ICG_Testing\\ICG_Testing/Logs/upm.log'
+[2026-10-02T18:47:45.896Z][INFO] IPC server started (IPC path=Unity-Upm-40532).
+[2026-10-02T18:47:45.896Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-40532.
+[2026-10-02T18:47:53.884Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-02T18:47:53.942Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-02T18:47:54.312Z][INFO] config:project:get-registries --> 200 (370 ms)
+[2026-10-02T18:47:54.416Z][INFO] project:list-packages --> 200 (532 ms)
+[2026-10-02T18:47:55.063Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-02T18:47:55.214Z][INFO] project:list-packages --> 200 (151 ms)
+[2026-10-02T18:48:11.024Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-02T18:48:11.063Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-02T18:48:11.193Z][INFO] project:list-packages --> 200 (169 ms)
+[2026-10-02T18:48:11.236Z][INFO] project:list-packages --> 200 (173 ms)
+[2026-10-02T18:48:11.306Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-02T18:48:11.412Z][INFO] project:list-packages --> 200 (106 ms)
+[2026-10-02T18:48:11.426Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-02T18:48:11.431Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-10-02T18:48:14.248Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-02T18:48:14.361Z][INFO] project:list-packages --> 200 (113 ms)
+[2026-10-02T18:48:16.930Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-02T18:48:17.478Z][INFO] project:list-packages --> 200 (548 ms)
+[2026-10-02T19:58:56.890Z][INFO] Shutting down UnityPackageManager.exe: parent process [40532] is no longer running.
